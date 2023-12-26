@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\bin\Debug\Asiriyukleme.exe.config
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\bin\Debug\Asiriyukleme.exe
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\bin\Debug\Asiriyukleme.pdb
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.Form1.resources
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.Properties.Resources.resources
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.exe
+C:\Users\legen\source\repos\Asiriyukleme\Asiriyukleme\obj\Debug\Asiriyukleme.pdb
